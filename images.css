@@ -1,0 +1,18 @@
+.gole{
+  text-align: center;
+  margin-top: 10%;
+}
+#searchi{
+  margin-left: 35%;
+  padding-top: 10px;
+  height: 30px;
+  width: 400px;
+  border-radius: 15px;
+  cursor: text;
+}
+#oye{
+  margin-left: 46%;
+  margin-top: 14px;
+  padding: 5px;
+  border-radius: 3px;
+}
